@@ -1,1 +1,1 @@
-Here some additional info
+Template for gradle project
